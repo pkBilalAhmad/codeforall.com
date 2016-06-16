@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    padding: 0px;
+    display: block;
+}
+.btn-menu{
+    padding: 10px;
+    display: block;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 6px;
+    
+}
+
+.hormenu{
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+.hormenu li{
+    list-style-type: none;
+    
+    
+    
+}
+.hormenu li:last-child{
+    border-bottom: 1px solid gray;
+}
+.hormenu li a{
+    text-decoration: none;
+    color: white;
+    padding: 12px 14px;
+    display: block;
+    font-size: 18px;
+}
+.hormenu li a:hover{
+    background-color: white;
+    color: black;
+}
