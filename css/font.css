@@ -1,4 +1,8 @@
 @font-face {
-    font-family: Chunkfive;
-    src: url(sansation_light.woff);
+    font-family: Sofia-Regular;
+    src: url("../fonts/Sofia-Regular.otf");
+}
+
+h1{
+    font-family: Sofia-Regular;
 }

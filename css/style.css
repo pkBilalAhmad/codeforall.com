@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    overflow: auto;
+}
+header, nav, section, article, div, footer, aside{
+    display: block;
 }
 .container{
     width: 100%;
@@ -14,9 +18,9 @@
     cursor: pointer;
     font-weight: bold;
     border-radius: 6px;
-    
+    margin-left: 15px;
+    margin-top: 15px;
 }
-
 .hormenu{
     display: inline-block;
     background-color: black;
@@ -44,3 +48,4 @@
     background-color: white;
     color: black;
 }
+@media only screen and

@@ -28,3 +28,31 @@
 .lightgray{
     background-color: lightgray;
 }
+.skyblue{
+    background-color: skyblue;
+}
+.darkred{
+    background-color: #7f2a2a;
+}
+.lightred{
+    background-color: #f99393;
+}
+
+.t-white{
+    color: white;
+}
+.t-black{
+    color: black;
+}
+.t-blue{
+    color: blue;
+}
+.t-red{
+    color: red;
+}
+.t-darkgreen{
+    color: darkgreen;
+}
+.t-gray{
+    color: gray;
+}
